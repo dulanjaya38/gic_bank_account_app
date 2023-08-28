@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GIC.BANKACCOUNT.DATA\GIC.BANKACCOUNT.DATA.csproj" />
+    <ProjectReference Include="..\GIC.BANKACCOUNT.MODELS\GIC.BANKACCOUNT.MODELS.csproj" />
+  </ItemGroup>
+
+</Project>

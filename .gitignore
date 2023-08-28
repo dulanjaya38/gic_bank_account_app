@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GIC.BANKACCOUNT.APP/bin/Debug/net7.0
+/GIC.BANKACCOUNT.APP/obj
+/GIC.BANKACCOUNT.COMMON/bin/Debug/net7.0
+/GIC.BANKACCOUNT.COMMON/obj
+/GIC.BANKACCOUNT.DATA/bin/Debug/net7.0
+/GIC.BANKACCOUNT.DATA/obj/Debug/net7.0
+/GIC.BANKACCOUNT.DATA/obj
+/GIC.BANKACCOUNT.APP/bin/Release/net7.0
+/GIC.BANKACCOUNT.APP/Properties/PublishProfiles
+/GIC.BANKACCOUNT.APP/GIC.BANKACCOUNT.APP.csproj.user
+/GIC.BANKACCOUNT.COMMON/bin/Release/net7.0
+/GIC.BANKACCOUNT.DATA/bin/Release/net7.0
+/GIC.BANKACCOUNT.MODELS/bin
+/GIC.BANKACCOUNT.MODELS/obj
+/GIC.BANKACCOUNT.SERVICES/bin
+/GIC.BANKACCOUNT.SERVICES/obj
+/GIC.BANKACCOUNT.UNIT.TEST/bin
+/GIC.BANKACCOUNT.UNIT.TEST/obj
